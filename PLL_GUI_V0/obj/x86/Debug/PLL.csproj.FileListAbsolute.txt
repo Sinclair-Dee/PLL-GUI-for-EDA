@@ -1,0 +1,27 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\bin\Debug\PLL.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\bin\Debug\PLL.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Debug\PLL.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Debug\PLL.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Debug\PLL.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Debug\PLL.pdb
+D:\work\SOFT_IP\PLL\PLL\obj\x86\Debug\PLL.exe
+D:\work\SOFT_IP\PLL\PLL\obj\x86\Debug\PLL.pdb
+D:\work\SOFT_IP\PLL\PLL\bin\Debug\PLL.exe
+D:\work\SOFT_IP\PLL\PLL\bin\Debug\PLL.pdb
+D:\work\SOFT_IP\PLL\PLL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\SOFT_IP\PLL\PLL\obj\x86\Debug\PLL.Form1.resources
+D:\work\SOFT_IP\PLL\PLL\obj\x86\Debug\PLL.Properties.Resources.resources
+D:\work\SOFT_IP\PLL\PLL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\work\SOFT_IP\PLL\PLL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\桌面\PLL\bin\Debug\PLL.exe
+C:\Documents and Settings\user\桌面\PLL\bin\Debug\PLL.pdb
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Debug\PLL.Form1.resources
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Debug\PLL.Properties.Resources.resources
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Debug\PLL.exe
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Debug\PLL.pdb

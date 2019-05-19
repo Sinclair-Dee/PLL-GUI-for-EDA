@@ -1,0 +1,40 @@
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\bin\Release\PLL.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\bin\Release\PLL.pdb
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Release\PLL.Form1.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Release\PLL.Properties.Resources.resources
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Release\PLL.exe
+C:\Documents and Settings\user\My Documents\Visual Studio 2010\Projects\CSharp_new\PLL\obj\x86\Release\PLL.pdb
+D:\_in\work\SOFT_IP\PLL\PLL\bin\Release\PLL.exe
+D:\_in\work\SOFT_IP\PLL\PLL\bin\Release\PLL.pdb
+D:\_in\work\SOFT_IP\PLL\PLL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\_in\work\SOFT_IP\PLL\PLL\obj\x86\Release\PLL.Form1.resources
+D:\_in\work\SOFT_IP\PLL\PLL\obj\x86\Release\PLL.Properties.Resources.resources
+D:\_in\work\SOFT_IP\PLL\PLL\obj\x86\Release\GenerateResource.read.1.tlog
+D:\_in\work\SOFT_IP\PLL\PLL\obj\x86\Release\GenerateResource.write.1.tlog
+D:\_in\work\SOFT_IP\PLL\PLL\obj\x86\Release\PLL.exe
+D:\_in\work\SOFT_IP\PLL\PLL\obj\x86\Release\PLL.pdb
+E:\_ly\_oh\PLL\obj\x86\Release\PLL.exe
+E:\_ly\_oh\PLL\obj\x86\Release\PLL.pdb
+E:\_ly\_oh\PLL\bin\Release\PLL.exe
+E:\_ly\_oh\PLL\bin\Release\PLL.pdb
+E:\_ly\_oh\PLL\obj\x86\Release\ResolveAssemblyReference.cache
+E:\_ly\_oh\PLL\obj\x86\Release\PLL.Form1.resources
+E:\_ly\_oh\PLL\obj\x86\Release\PLL.Properties.Resources.resources
+E:\_ly\_oh\PLL\obj\x86\Release\GenerateResource.read.1.tlog
+E:\_ly\_oh\PLL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Release\PLL.exe
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Release\PLL.pdb
+C:\Documents and Settings\user\桌面\PLL\bin\Release\PLL.exe
+C:\Documents and Settings\user\桌面\PLL\bin\Release\PLL.pdb
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Release\PLL.Form1.resources
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Release\PLL.Properties.Resources.resources
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\user\桌面\PLL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\user\桌面\PLLadd\obj\x86\Release\PLL.exe
+C:\Documents and Settings\user\桌面\PLLadd\obj\x86\Release\PLL.pdb
+D:\new_temp\PLL\PLL_Original\obj\x86\Release\PLL.exe
+D:\new_temp\PLL\PLL_Original\obj\x86\Release\PLL.pdb
